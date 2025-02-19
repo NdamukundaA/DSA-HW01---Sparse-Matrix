@@ -5,3 +5,12 @@
 !.gitignore
 !SparseMatrix.js
 !test.js
+!results/
+!results/*.txt
+
+# Ignore system and development files
+.DS_Store
+node_modules/
+.env
+.vscode/
+*.log
