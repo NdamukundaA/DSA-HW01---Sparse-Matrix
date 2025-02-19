@@ -1,7 +1,1 @@
-# Ignore everything
-*
 
-# But track these files
-!.gitignore
-!SparseMatrix.js
-!test.js
