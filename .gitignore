@@ -1,13 +1,10 @@
 
-# Ignore everything
-*
+# Track source code and sample inputs
+/dsa/sparse_matrix/code/src/
+/dsa/sparse_matrix/sample_inputs/
 
-# But track these file
-!.gitignore
-!SparseMatrix.js
-!test.js
-!results/
-!results/*.txt
+# Ignore results directory
+results/
 
 # Ignore system and development files
 .DS_Store
@@ -15,3 +12,6 @@ node_modules/
 .env
 .vscode/
 *.log
+
+# Ignore test files
+test.js

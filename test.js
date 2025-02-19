@@ -1,4 +1,4 @@
-const SparseMatrix = require('./dsa/sparse_matrix/SparseMatrix');
+const SparseMatrix = require('./dsa/sparse_matrix/code/src/SparseMatrix');
 
 // Test matrix creation and basic operations
 function testBasicOperations() {
