@@ -1,0 +1,17 @@
+{
+  "name": "sparse-matrix",
+  "version": "1.0.0",
+  "description": "A sparse matrix implementation in JavaScript",
+  "main": "dsa/sparse_matrix/main.js",
+  "scripts": {
+    "start": "node dsa/sparse_matrix/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sparse-matrix",
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "",
+  "license": "ISC"
+}
